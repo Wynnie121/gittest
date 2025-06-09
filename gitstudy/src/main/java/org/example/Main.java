@@ -14,5 +14,7 @@ public class Main {
             System.out.println("i = " + i);
         }
         System.out.println("Hello World!");
+        System.out.println("推送1");
+        System.out.println("dev");
     }
 }
